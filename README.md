@@ -1,5 +1,5 @@
 # Prog_1_Bead
 Beadandó, 24,29,31
 29 ✓
-TODO 24
-TODO 31
+24✓ (TODO TEST ALL POSSIBLE BASE N-S)
+TODO 31 
