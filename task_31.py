@@ -1,7 +1,5 @@
 import re
 
-#V 1.0 REGEX [\w]+[\.]?[\w]+[@][\w]+([\.]?[\w])+
-# TODO A KISZoLGÁLÓ ÉS A TLD KÖZÖTTI PONTOKAT NE FOGADJA EL SŐT SEHOL SE KÉNE
 def EzEmailVagySem(beolv):
     kereses = None
     kereses =  re.fullmatch('[\w+\.?]+[^a-zA-Z0-9.]*[\w+\.?]+[@][\w]+([\.]?[\w])+',beolv)
